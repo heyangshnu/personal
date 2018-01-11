@@ -1,0 +1,574 @@
+2018-01-08 16:21:42,865 - <ipython-input-1-d2ef0dbefc05>:64 - llw - succeed loading para model1!
+2018-01-08 16:21:42,872 - <ipython-input-1-d2ef0dbefc05>:81 - llw - succeed loading para model2!
+2018-01-08 16:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 16:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 16:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 17:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 17:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 17:22:36,523 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 8
+2018-01-08 17:22:36,524 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [554582, 1008005, 947060, 985492, 1053133, 964243, 741245, 279819]
+2018-01-08 17:24:37,134 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 17:24:37,356 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 17:24:58,141 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 17:24:58,483 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 17:24:58,808 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [554582, 1008005, 947060, 985492, 1053133, 964243, 741245, 279819]
+2018-01-08 17:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 17:37:34,550 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 10
+2018-01-08 17:37:34,550 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1000488, 491318, 586296, 767275, 766325, 32043, 1051020, 3223, 1053135, 1009413]
+2018-01-08 17:39:52,281 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 17:39:52,457 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 17:40:12,577 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 17:40:12,877 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 17:40:13,151 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1000488, 491318, 586296, 767275, 766325, 32043, 1051020, 3223, 1053135, 1009413]
+2018-01-08 17:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 17:52:28,071 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-08 17:52:28,076 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [782862, 809483, 1019270, 127127, 105169, 899953]
+2018-01-08 17:55:12,702 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 17:55:13,225 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 17:55:28,245 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 17:55:28,566 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 17:55:28,769 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [782862, 809483, 1019270, 127127, 105169, 899953]
+2018-01-08 18:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 18:07:34,901 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 9
+2018-01-08 18:07:34,901 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1051227, 1050772, 1009830, 1053139, 258870, 1053142, 944878, 1010950, 1000504]
+2018-01-08 18:09:30,679 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 18:09:30,836 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 18:09:48,446 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 18:09:48,639 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 18:09:48,853 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1051227, 1050772, 1009830, 1053139, 258870, 1053142, 944878, 1010950, 1000504]
+2018-01-08 18:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 18:22:18,763 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-08 18:22:18,764 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053144, 1033835, 770908, 624868, 533790, 757996, 1028947]
+2018-01-08 18:24:33,767 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 18:24:34,053 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 18:24:54,115 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 18:24:54,403 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 18:24:54,660 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053144, 1033835, 770908, 624868, 533790, 757996, 1028947]
+2018-01-08 18:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 18:37:30,803 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-08 18:37:30,803 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053147, 1053146]
+2018-01-08 18:39:13,795 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 18:39:13,976 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 18:39:32,169 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 18:39:32,358 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 18:39:32,556 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053147, 1053146]
+2018-01-08 18:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 18:52:27,405 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 8
+2018-01-08 18:52:27,410 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [831433, 493088, 1053148, 934536, 62807, 972342, 1053152, 808795]
+2018-01-08 18:54:58,712 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 18:54:59,492 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 18:55:14,503 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 18:55:14,783 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 18:55:14,994 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [831433, 493088, 1053148, 934536, 62807, 972342, 1053152, 808795]
+2018-01-08 19:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 19:07:27,832 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-08 19:07:27,838 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053153, 792410]
+2018-01-08 19:09:43,463 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 19:09:43,948 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 19:09:54,604 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 19:09:54,896 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 19:09:55,079 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053153, 792410]
+2018-01-08 19:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 19:22:32,365 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-08 19:22:32,371 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053157, 1052941, 947873, 1038585, 184148, 747615, 980570]
+2018-01-08 19:25:13,834 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 19:25:14,606 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 19:25:29,807 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 19:25:30,102 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 19:25:30,348 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053157, 1052941, 947873, 1038585, 184148, 747615, 980570]
+2018-01-08 19:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 19:37:32,036 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-08 19:37:32,041 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [759766, 1045900, 60564, 284595, 1044873, 18924]
+2018-01-08 19:40:11,070 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 19:40:11,800 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 19:40:27,885 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 19:40:28,138 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 19:40:28,304 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [759766, 1045900, 60564, 284595, 1044873, 18924]
+2018-01-08 19:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 19:52:31,913 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-08 19:52:31,918 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [83377, 1053164, 1049264, 826037, 661095, 973849]
+2018-01-08 19:55:25,308 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 19:55:25,717 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 19:55:37,624 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 19:55:37,955 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 19:55:38,138 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [83377, 1053164, 1049264, 826037, 661095, 973849]
+2018-01-08 20:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 20:07:31,348 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 5
+2018-01-08 20:07:31,353 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053167, 862028, 742375, 1053156, 1053125]
+2018-01-08 20:10:02,669 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 20:10:03,167 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 20:10:18,338 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 20:10:18,620 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 20:10:18,791 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053167, 862028, 742375, 1053156, 1053125]
+2018-01-08 20:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 20:22:31,492 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 11
+2018-01-08 20:22:31,498 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053171, 966827, 962593, 602157, 1047225, 184013, 727832, 554179, 1009098, 1043886, 443646]
+2018-01-08 20:25:07,057 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 20:25:07,790 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 20:25:24,099 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 20:25:24,412 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 20:25:24,685 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053171, 966827, 962593, 602157, 1047225, 184013, 727832, 554179, 1009098, 1043886, 443646]
+2018-01-08 20:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 20:37:31,423 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-08 20:37:31,428 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1050930, 85135, 1053062, 776219, 76330, 1040190]
+2018-01-08 20:39:45,029 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 20:39:45,546 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 20:39:59,869 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 20:40:00,221 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 20:40:00,600 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1050930, 85135, 1053062, 776219, 76330, 1040190]
+2018-01-08 20:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 20:52:31,828 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 5
+2018-01-08 20:52:31,833 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [995420, 803776, 1053174, 384447, 846063]
+2018-01-08 20:55:02,083 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 20:55:02,463 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 20:55:13,551 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 20:55:13,890 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 20:55:14,136 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [995420, 803776, 1053174, 384447, 846063]
+2018-01-08 21:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 21:07:31,718 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-08 21:07:31,724 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [929337, 1053176, 808615]
+2018-01-08 21:10:17,914 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 21:10:18,307 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 21:10:33,988 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 21:10:34,378 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 21:10:34,560 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [929337, 1053176, 808615]
+2018-01-08 21:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 21:22:31,447 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-08 21:22:31,452 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [731251, 539610, 1052658]
+2018-01-08 21:25:00,909 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 21:25:01,456 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 21:25:16,335 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 21:25:16,635 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 21:25:16,802 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [731251, 539610, 1052658]
+2018-01-08 21:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 21:37:31,023 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-08 21:37:31,028 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [957530]
+2018-01-08 21:39:23,786 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 21:39:24,411 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 21:39:38,882 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 21:39:39,218 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 21:39:39,428 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [957530]
+2018-01-08 21:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 21:52:30,857 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-08 21:52:30,867 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [996933, 242080]
+2018-01-08 21:54:35,743 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 21:54:35,944 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 21:54:46,891 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 21:54:47,123 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 21:54:47,285 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [996933, 242080]
+2018-01-08 22:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 22:07:30,806 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-08 22:07:30,812 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [979077, 900901, 482315]
+2018-01-08 22:09:58,535 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 22:09:59,543 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 22:10:14,610 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 22:10:14,898 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 22:10:15,066 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [979077, 900901, 482315]
+2018-01-08 22:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 22:22:30,971 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-08 22:22:30,977 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [257650, 984574, 872166]
+2018-01-08 22:24:50,520 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 22:24:50,835 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 22:25:05,768 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 22:25:06,036 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 22:25:06,197 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [257650, 984574, 872166]
+2018-01-08 22:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 22:37:30,295 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-08 22:37:30,300 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [798877, 1050028, 1053190, 1053189, 1052949, 1053191, 1053192]
+2018-01-08 22:39:59,906 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 22:40:00,368 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 22:40:14,678 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 22:40:15,034 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 22:40:15,218 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [798877, 1050028, 1053190, 1053189, 1052949, 1053191, 1053192]
+2018-01-08 22:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 22:52:29,917 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-08 22:52:29,922 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [616119, 1031250, 707697, 488365]
+2018-01-08 22:55:32,936 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 22:55:33,282 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 22:55:45,599 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 22:55:45,876 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 22:55:46,050 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [616119, 1031250, 707697, 488365]
+2018-01-08 23:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 23:07:29,855 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 5
+2018-01-08 23:07:29,860 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053193, 1027914, 1053195, 692367, 1004331]
+2018-01-08 23:10:09,991 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 23:10:10,568 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 23:10:22,082 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 23:10:22,373 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 23:10:22,624 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053193, 1027914, 1053195, 692367, 1004331]
+2018-01-08 23:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 23:22:29,931 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-08 23:22:29,936 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [114315, 36675, 1051398, 184108]
+2018-01-08 23:24:47,384 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 23:24:47,958 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 23:25:04,291 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 23:25:04,542 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 23:25:04,705 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [114315, 36675, 1051398, 184108]
+2018-01-08 23:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 23:37:29,869 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-08 23:37:29,875 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1004893, 959958, 1053196, 746852, 1053140, 1033725, 523944]
+2018-01-08 23:40:05,846 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 23:40:06,365 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 23:40:17,339 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 23:40:17,627 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 23:40:17,872 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1004893, 959958, 1053196, 746852, 1053140, 1033725, 523944]
+2018-01-08 23:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-08 23:52:30,052 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-08 23:52:30,057 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [133967, 843160, 71948]
+2018-01-08 23:54:41,536 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-08 23:54:41,934 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-08 23:54:52,346 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-08 23:54:52,622 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-08 23:54:52,966 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [133967, 843160, 71948]
+2018-01-09 00:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 00:07:30,772 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 00:07:30,777 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [671711, 1038526, 841155]
+2018-01-09 00:10:10,116 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 00:10:10,863 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 00:10:25,206 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 00:10:25,479 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 00:10:25,640 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [671711, 1038526, 841155]
+2018-01-09 00:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 00:22:31,797 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 00:22:31,802 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053198, 1050985, 851364]
+2018-01-09 00:24:47,196 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 00:24:47,536 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 00:25:02,531 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 00:25:02,792 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 00:25:02,984 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053198, 1050985, 851364]
+2018-01-09 00:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 00:37:30,380 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 00:37:30,385 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [240384, 210313, 1032315]
+2018-01-09 00:39:42,097 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 00:39:42,502 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 00:39:54,601 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 00:39:54,947 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 00:39:55,113 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [240384, 210313, 1032315]
+2018-01-09 00:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 00:52:28,700 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 5
+2018-01-09 00:52:28,705 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [152150, 827508, 627427, 59973, 1053204]
+2018-01-09 00:55:27,609 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 00:55:27,984 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 00:55:42,556 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 00:55:42,912 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 00:55:43,066 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [152150, 827508, 627427, 59973, 1053204]
+2018-01-09 01:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 01:07:31,689 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-09 01:07:31,694 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [998523, 1053028, 369973, 728560, 257611, 906706, 1053207]
+2018-01-09 01:10:05,201 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 01:10:05,887 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 01:10:21,102 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 01:10:21,370 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 01:10:21,544 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [998523, 1053028, 369973, 728560, 257611, 906706, 1053207]
+2018-01-09 01:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 01:22:31,530 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 01:22:31,535 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [65019, 423758, 1053210]
+2018-01-09 01:24:58,637 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 01:24:58,980 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 01:25:14,751 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 01:25:15,104 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 01:25:15,276 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [65019, 423758, 1053210]
+2018-01-09 01:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 01:37:29,351 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-09 01:37:29,356 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [359949, 1053214, 526785, 983430, 530278, 769069]
+2018-01-09 01:39:52,803 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 01:39:53,925 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 01:40:06,080 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 01:40:06,382 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 01:40:06,553 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [359949, 1053214, 526785, 983430, 530278, 769069]
+2018-01-09 01:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 01:52:28,532 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-09 01:52:28,537 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [811424, 347758]
+2018-01-09 01:54:51,787 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 01:54:52,219 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 01:55:06,449 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 01:55:06,754 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 01:55:06,925 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [811424, 347758]
+2018-01-09 02:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 02:07:28,224 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 5
+2018-01-09 02:07:28,230 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1008894, 1040017, 1037914, 540148, 506414]
+2018-01-09 02:09:56,373 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 02:09:56,809 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 02:10:11,059 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 02:10:11,317 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 02:10:11,483 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1008894, 1040017, 1037914, 540148, 506414]
+2018-01-09 02:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 02:22:28,461 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 02:22:28,466 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1042992, 992523, 300773]
+2018-01-09 02:24:42,899 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 02:24:43,438 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 02:24:58,859 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 02:24:59,156 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 02:24:59,327 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1042992, 992523, 300773]
+2018-01-09 02:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 02:37:27,519 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 02:37:27,524 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1052938, 888046, 1029903]
+2018-01-09 02:39:45,286 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 02:39:45,771 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 02:40:01,042 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 02:40:01,328 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 02:40:01,494 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1052938, 888046, 1029903]
+2018-01-09 02:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 02:52:27,343 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-09 02:52:27,349 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [872678, 1053220]
+2018-01-09 02:54:48,007 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 02:54:48,326 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 02:55:02,914 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 02:55:03,200 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 02:55:03,372 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [872678, 1053220]
+2018-01-09 03:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 03:07:27,700 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-09 03:07:27,706 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [793708, 496847, 2446, 417541]
+2018-01-09 03:09:45,147 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 03:09:45,619 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 03:09:56,110 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 03:09:56,383 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 03:09:56,540 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [793708, 496847, 2446, 417541]
+2018-01-09 03:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 03:22:27,651 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 03:22:27,656 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [957837]
+2018-01-09 03:24:28,679 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 03:24:29,137 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 03:24:43,590 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 03:24:43,898 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 03:24:44,106 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [957837]
+2018-01-09 03:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 03:37:27,726 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 03:37:27,731 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [3963, 1053225, 692326]
+2018-01-09 03:39:39,914 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 03:39:40,581 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 03:39:51,410 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 03:39:51,628 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 03:39:51,813 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [3963, 1053225, 692326]
+2018-01-09 03:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 03:52:27,619 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 03:52:27,630 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [936040, 637738, 953042]
+2018-01-09 03:54:44,880 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 03:54:45,510 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 03:54:59,590 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 03:54:59,901 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 03:55:00,068 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [936040, 637738, 953042]
+2018-01-09 04:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 04:07:27,682 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-09 04:07:27,688 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1052975, 539393]
+2018-01-09 04:09:55,139 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 04:09:55,764 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 04:10:06,269 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 04:10:06,517 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 04:10:06,688 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1052975, 539393]
+2018-01-09 04:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 04:22:27,647 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-09 04:22:27,652 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [693453, 904587, 319958, 1042730]
+2018-01-09 04:25:24,249 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 04:25:24,828 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 04:25:38,691 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 04:25:38,966 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 04:25:39,131 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [693453, 904587, 319958, 1042730]
+2018-01-09 04:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 04:37:27,596 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 04:37:27,601 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [953448, 910960, 804183]
+2018-01-09 04:39:19,839 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 04:39:20,173 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 04:39:30,620 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 04:39:30,899 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 04:39:31,063 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [953448, 910960, 804183]
+2018-01-09 04:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 04:52:27,558 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 04:52:27,563 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [852930]
+2018-01-09 04:54:44,986 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 04:54:45,471 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 04:54:58,875 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 04:54:59,120 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 04:54:59,292 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [852930]
+2018-01-09 05:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 05:07:27,665 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 05:07:27,670 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [325260, 223224, 101401]
+2018-01-09 05:09:59,613 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 05:10:00,253 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 05:10:11,261 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 05:10:11,499 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 05:10:11,659 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [325260, 223224, 101401]
+2018-01-09 05:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 05:22:29,446 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 05:22:29,452 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [912445]
+2018-01-09 05:24:38,756 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 05:24:39,254 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 05:24:49,557 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 05:24:49,830 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 05:24:49,983 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [912445]
+2018-01-09 05:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 05:37:27,242 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-09 05:37:27,248 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [898432, 1051865, 1053228, 1053229]
+2018-01-09 05:40:04,992 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 05:40:05,586 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 05:40:16,244 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 05:40:16,530 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 05:40:16,696 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [898432, 1051865, 1053228, 1053229]
+2018-01-09 05:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 05:52:27,255 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 0
+2018-01-09 06:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 06:07:27,287 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 0
+2018-01-09 06:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 06:22:27,229 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 0
+2018-01-09 06:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 06:37:33,254 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 06:37:33,259 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1043029]
+2018-01-09 06:40:00,173 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 06:40:00,498 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 06:40:15,388 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 06:40:15,655 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 06:40:15,819 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1043029]
+2018-01-09 06:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 06:52:27,581 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-09 06:52:27,586 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [326269, 18975, 837006, 285746, 952909, 9317]
+2018-01-09 06:55:17,447 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 06:55:17,792 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 06:55:31,210 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 06:55:31,483 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 06:55:31,651 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [326269, 18975, 837006, 285746, 952909, 9317]
+2018-01-09 07:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 07:07:27,199 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-09 07:07:27,204 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [983284, 733262]
+2018-01-09 07:09:33,677 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 07:09:34,258 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 07:09:47,912 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 07:09:48,132 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 07:09:48,301 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [983284, 733262]
+2018-01-09 07:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 07:22:27,116 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 07:22:27,121 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [230547]
+2018-01-09 07:24:40,451 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 07:24:40,989 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 07:24:51,690 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 07:24:51,939 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 07:24:52,107 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [230547]
+2018-01-09 07:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 07:37:27,156 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 0
+2018-01-09 07:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 07:52:27,140 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 07:52:27,145 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [955668, 1029734, 960320]
+2018-01-09 07:54:56,127 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 07:54:56,467 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 07:55:10,786 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 07:55:11,089 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 07:55:11,249 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [955668, 1029734, 960320]
+2018-01-09 08:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 08:07:27,134 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-09 08:07:27,144 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [895376, 121112]
+2018-01-09 08:10:15,612 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 08:10:15,884 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 08:10:30,320 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 08:10:30,579 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 08:10:30,750 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [895376, 121112]
+2018-01-09 08:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 08:22:27,145 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 08:22:27,150 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053231]
+2018-01-09 08:24:48,908 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 08:24:49,178 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 08:25:01,550 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 08:25:01,808 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 08:25:01,990 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053231]
+2018-01-09 08:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 08:37:27,055 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-09 08:37:27,060 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [124940, 248599, 1052402, 691203]
+2018-01-09 08:39:53,473 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 08:39:53,811 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 08:40:07,455 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 08:40:07,712 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 08:40:07,880 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [124940, 248599, 1052402, 691203]
+2018-01-09 08:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 08:52:27,040 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 2
+2018-01-09 08:52:27,046 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [55547, 1053234]
+2018-01-09 08:54:34,551 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 08:54:34,725 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 08:54:48,464 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 08:54:48,751 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 08:54:48,926 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [55547, 1053234]
+2018-01-09 09:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 09:07:27,111 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 1
+2018-01-09 09:07:27,117 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [153050]
+2018-01-09 09:09:51,498 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 09:09:51,739 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 09:10:05,312 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 09:10:05,559 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 09:10:05,765 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [153050]
+2018-01-09 09:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 09:22:22,608 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 09:22:22,613 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [754183, 332941, 990718]
+2018-01-09 09:24:48,732 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 09:24:49,284 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 09:25:03,571 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 09:25:03,885 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 09:25:04,259 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [754183, 332941, 990718]
+2018-01-09 09:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 09:37:25,813 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 09:37:25,823 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [865992, 1051937, 950720]
+2018-01-09 09:39:22,787 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 09:39:22,915 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 09:39:40,438 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 09:39:40,670 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 09:39:40,872 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [865992, 1051937, 950720]
+2018-01-09 09:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 09:52:40,001 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-09 09:52:40,001 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1040729, 906990, 797287, 752499]
+2018-01-09 09:54:27,653 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 09:54:28,119 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 09:54:41,950 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 09:54:42,292 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 09:54:42,620 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1040729, 906990, 797287, 752499]
+2018-01-09 10:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 10:07:34,735 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 3
+2018-01-09 10:07:34,740 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1052993, 1053239, 389484]
+2018-01-09 10:09:43,172 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 10:09:43,584 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 10:09:59,618 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 10:09:59,954 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 10:10:00,116 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1052993, 1053239, 389484]
+2018-01-09 10:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 10:22:49,525 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-09 10:22:49,525 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1016630, 961682, 1053055, 1019434, 1053240, 456604, 1004243]
+2018-01-09 10:24:53,336 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 10:24:53,816 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 10:25:09,455 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 10:25:09,723 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 10:25:09,889 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1016630, 961682, 1053055, 1019434, 1053240, 456604, 1004243]
+2018-01-09 10:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 10:37:22,945 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-09 10:37:22,951 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [608413, 1051544, 817977, 947942, 930438, 212496, 1053235]
+2018-01-09 10:39:37,348 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 10:39:37,602 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 10:39:58,558 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 10:39:58,789 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 10:39:59,035 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [608413, 1051544, 817977, 947942, 930438, 212496, 1053235]
+2018-01-09 10:51:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 10:52:31,772 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 7
+2018-01-09 10:52:31,777 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [757745, 1047918, 1037806, 735775, 906372, 318627, 362465]
+2018-01-09 10:55:05,684 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 10:55:06,004 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 10:55:20,116 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 10:55:20,405 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 10:55:20,581 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [757745, 1047918, 1037806, 735775, 906372, 318627, 362465]
+2018-01-09 11:06:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 11:07:33,133 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 9
+2018-01-09 11:07:33,138 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [264810, 1040157, 41746, 1053245, 504949, 747830, 613822, 803024, 996008]
+2018-01-09 11:10:18,421 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 11:10:18,947 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 11:10:34,211 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 11:10:34,545 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 11:10:34,774 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [264810, 1040157, 41746, 1053245, 504949, 747830, 613822, 803024, 996008]
+2018-01-09 11:21:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 11:22:32,954 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 4
+2018-01-09 11:22:32,959 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [935196, 1053251, 1045756, 838828]
+2018-01-09 11:25:10,801 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 11:25:11,284 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 11:25:25,778 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 11:25:26,099 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 11:25:26,261 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [935196, 1053251, 1045756, 838828]
+2018-01-09 11:36:42,874 - <ipython-input-1-d2ef0dbefc05>:149 - llw - start working!
+2018-01-09 11:37:34,570 - <ipython-input-1-d2ef0dbefc05>:137 - llw - new user number 6
+2018-01-09 11:37:34,575 - <ipython-input-1-d2ef0dbefc05>:139 - llw - new user uid: [1053253, 661650, 838396, 494918, 750353, 1035685]
+2018-01-09 11:39:44,397 - <ipython-input-1-d2ef0dbefc05>:88 - llw - succeed: feature engineering
+2018-01-09 11:39:45,063 - <ipython-input-1-d2ef0dbefc05>:95 - llw - succeed: transform object to ndarray
+2018-01-09 11:39:59,610 - <ipython-input-1-d2ef0dbefc05>:116 - llw - succeed: logit
+2018-01-09 11:39:59,884 - <ipython-input-1-d2ef0dbefc05>:119 - llw - succeed: xgb
+2018-01-09 11:40:00,050 - <ipython-input-1-d2ef0dbefc05>:127 - llw - Victory! [1053253, 661650, 838396, 494918, 750353, 1035685]

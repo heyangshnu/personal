@@ -1,0 +1,122 @@
+2017-12-29 17:41:40,651 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 9 条数据
+2017-12-29 17:56:48,035 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 9 条数据
+2017-12-29 18:11:48,118 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 18:26:48,014 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 7 条数据
+2017-12-29 18:41:43,581 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 994270
+2017-12-29 18:41:46,759 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1052784
+2017-12-29 18:41:46,862 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052986
+2017-12-29 18:41:47,949 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 18:41:52,887 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 190933
+2017-12-29 18:41:57,976 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 988851
+2017-12-29 18:42:02,421 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 931306
+2017-12-29 18:42:07,287 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1050138
+2017-12-29 18:42:13,546 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 581827
+2017-12-29 18:42:18,314 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 825541
+2017-12-29 18:56:47,960 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 8 条数据
+2017-12-29 18:56:53,060 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 886101
+2017-12-29 18:56:53,140 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052988
+2017-12-29 18:56:53,215 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052984
+2017-12-29 18:57:00,383 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 959453
+2017-12-29 18:57:06,111 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 526785
+2017-12-29 18:57:13,549 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1043137
+2017-12-29 18:57:13,628 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052989
+2017-12-29 18:57:19,457 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 308952
+2017-12-29 18:57:24,284 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1020086
+2017-12-29 19:11:48,006 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 19:11:54,038 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 357214
+2017-12-29 19:12:03,037 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 222032
+2017-12-29 19:12:09,241 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 785715
+2017-12-29 19:12:09,321 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 714057
+2017-12-29 19:26:47,994 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 7 条数据
+2017-12-29 19:26:48,101 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052993
+2017-12-29 19:26:53,926 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 864851
+2017-12-29 19:27:00,488 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 27319
+2017-12-29 19:27:07,383 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 879754
+2017-12-29 19:27:13,707 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 732187
+2017-12-29 19:27:20,780 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1037763
+2017-12-29 19:27:26,965 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 986987
+2017-12-29 19:41:48,108 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 19:41:56,750 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 853569
+2017-12-29 19:41:56,817 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 980375
+2017-12-29 19:42:04,371 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 910536
+2017-12-29 19:42:12,755 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 930416
+2017-12-29 19:56:47,824 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 19:56:57,358 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1011228
+2017-12-29 19:56:57,436 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053002
+2017-12-29 19:57:08,978 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 79705
+2017-12-29 19:57:19,209 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 443646
+2017-12-29 19:57:26,451 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1028767
+2017-12-29 19:57:33,456 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 757446
+2017-12-29 19:57:39,544 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 648985
+2017-12-29 19:57:46,312 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 470937
+2017-12-29 20:11:48,185 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 20:11:56,172 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 30994
+2017-12-29 20:12:05,081 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 393402
+2017-12-29 20:12:05,150 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053004
+2017-12-29 20:12:05,222 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052985
+2017-12-29 20:26:48,042 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 6 条数据
+2017-12-29 20:26:48,043 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053003
+2017-12-29 20:26:54,209 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 441178
+2017-12-29 20:27:00,828 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 979448
+2017-12-29 20:27:08,023 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 811336
+2017-12-29 20:27:14,825 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 747665
+2017-12-29 20:27:23,620 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 238786
+2017-12-29 20:27:23,692 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053006
+2017-12-29 20:41:47,925 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 6 条数据
+2017-12-29 20:41:54,951 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1036223
+2017-12-29 20:42:03,410 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1636
+2017-12-29 20:42:11,729 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 263845
+2017-12-29 20:42:20,758 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 470619
+2017-12-29 20:56:47,743 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 5 条数据
+2017-12-29 20:56:52,184 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 977795
+2017-12-29 20:56:52,253 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053008
+2017-12-29 20:56:59,883 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 162899
+2017-12-29 20:57:06,796 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 863987
+2017-12-29 21:11:47,680 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 6 条数据
+2017-12-29 21:11:55,550 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 927732
+2017-12-29 21:12:02,971 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 160569
+2017-12-29 21:12:03,048 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053010
+2017-12-29 21:12:08,204 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1051937
+2017-12-29 21:26:47,705 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 3 条数据
+2017-12-29 21:26:54,824 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 533466
+2017-12-29 21:27:02,703 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 935720
+2017-12-29 21:27:08,062 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 766930
+2017-12-29 21:27:19,030 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 223177
+2017-12-29 21:27:25,971 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1051190
+2017-12-29 21:27:32,861 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 10513
+2017-12-29 21:41:47,700 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 7 条数据
+2017-12-29 21:41:53,261 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1039926
+2017-12-29 21:42:00,110 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 966424
+2017-12-29 21:42:00,182 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053013
+2017-12-29 21:42:07,886 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 305012
+2017-12-29 21:42:15,559 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 879755
+2017-12-29 21:42:23,319 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1047918
+2017-12-29 21:56:47,659 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 3 条数据
+2017-12-29 21:56:47,813 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053014
+2017-12-29 21:56:55,781 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 278458
+2017-12-29 21:57:03,130 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 653466
+2017-12-29 21:57:09,269 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 245208
+2017-12-29 21:57:09,368 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052932
+2017-12-29 22:11:47,786 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 4 条数据
+2017-12-29 22:11:54,206 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 468071
+2017-12-29 22:12:00,727 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 275370
+2017-12-29 22:12:08,304 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 849798
+2017-12-29 22:12:08,391 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053017
+2017-12-29 22:12:08,472 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1052239
+2017-12-29 22:12:15,683 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 392660
+2017-12-29 22:26:47,652 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 6 条数据
+2017-12-29 22:26:53,594 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1049745
+2017-12-29 22:27:01,593 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 925578
+2017-12-29 22:27:08,919 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 11821
+2017-12-29 22:41:47,685 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 0 条数据
+2017-12-29 22:41:52,919 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 925470
+2017-12-29 22:41:59,398 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 476932
+2017-12-29 22:41:59,465 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053023
+2017-12-29 22:42:05,860 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 225836
+2017-12-29 22:42:12,641 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 499388
+2017-12-29 22:42:12,720 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 1053018
+2017-12-29 22:42:12,800 - <ipython-input-2-6ca8ce9a9119>:50 - llw - something wrong when handling feature_engineering on uid 819662
+2017-12-29 22:56:47,719 - <ipython-input-2-6ca8ce9a9119>:83 - llw - 共获取到 2 条数据
+2017-12-29 22:56:55,089 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 970961
+2017-12-29 22:57:01,237 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 1052703
+2017-12-29 22:57:07,638 - <ipython-input-2-6ca8ce9a9119>:70 - llw - something wrong with uid 499900
